@@ -1,5 +1,5 @@
 # Curriculo-escolar
-<title>Meus dados</title>
+<title> Meus dados </title>
 </head>
 
 <body>
