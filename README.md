@@ -1,6 +1,7 @@
 # Curriculo-escolar
-<title> Meus dados </title>
 </head>
+
+<title>Meus dados</title>
 
 <body>
 <b>Heitor Krawczuk Mota<b><br> 
