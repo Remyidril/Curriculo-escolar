@@ -1,8 +1,11 @@
-# Curriculo-escolar
+<html>
+
+<head> 
+  
+<title>Curriculo escolar</title>
+
 </head>
-
-<title>Meus dados</title>
-
+  
 <body>
 <b>Heitor Krawczuk Mota<b><br> 
 <i>remyidril@gmail.com</i><br>
