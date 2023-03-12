@@ -2,7 +2,7 @@
 
 <head> 
   
-<title>Curriculo escolar</title>
+<title> Curriculo escolar </title>
 
 </head>
   
